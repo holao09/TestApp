@@ -1,4 +1,4 @@
-package com.example.test;
+package com.vietnm.chamcong;
 
 import org.junit.Test;
 
